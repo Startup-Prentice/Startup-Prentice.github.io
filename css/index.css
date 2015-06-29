@@ -1,0 +1,21 @@
+/**
+ * index.css: Cascading stylesheet for the Startup-Prentice homepage.
+ * Created by John on 6/29/15.
+ *
+ * Copyright (c) 2015 Startup-Prentice. All rights reserved.
+ */
+
+.navbar-brand {
+	height: auto;
+}
+
+.ceo-message {
+	font-family: "Apple Chancery", "Lucida Handwriting", cursive;
+	color: white;
+}
+
+
+.ceo-message p {
+	font-size: 14pt;
+}
+
